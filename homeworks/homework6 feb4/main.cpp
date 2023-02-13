@@ -1,7 +1,16 @@
 //
 // Created by Vahe Aleksanyan on 08.02.23.
 //
+
+#include "iostream"
+using namespace std;
 int main() {
+
+
+    cout << "entered if";
+    cout << "entered else if";
+    cout << "entered else";
+    cout << "while loop work count - ";
     return 1;
 }
 
@@ -32,6 +41,7 @@ public:
         ListNode *fast = head;
         int i = 0;
         while (i < n) {
+
             fast = fast->next;
             i++;
         }
