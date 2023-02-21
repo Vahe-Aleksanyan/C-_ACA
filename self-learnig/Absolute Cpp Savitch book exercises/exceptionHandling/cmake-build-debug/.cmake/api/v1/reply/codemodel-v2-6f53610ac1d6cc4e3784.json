@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "exceptionHandling",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "exceptionHandling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-exceptionHandling-Debug-08bc6de495711ec53326.json",
+					"name" : "exceptionHandling",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/exceptionHandling/cmake-build-debug",
+		"source" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/exceptionHandling"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
