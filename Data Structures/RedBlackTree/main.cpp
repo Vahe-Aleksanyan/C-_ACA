@@ -1,0 +1,20 @@
+#include "RedBlackTree.h"
+
+//
+// Created by Vahe Aleksanyan on 28.03.23.
+//
+int main() {
+    RedBlackTree bst;
+    bst.insert(55);
+    bst.insert(40);
+    bst.insert(65);
+    bst.insert(60);
+    bst.insert(75);
+    bst.insert(57);
+
+    bst.printTree();
+    cout << endl
+         << "After deleting" << endl;
+    bst.deleteNode(40);
+    bst.printTree();
+}

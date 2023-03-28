@@ -1,0 +1,4 @@
+# ninja log v5
+0	222	1680015051601028868	CMakeFiles/RedBlackTree.dir/RedBlackTree.cpp.o	4b9341590a600c87
+0	237	1680015051616260977	CMakeFiles/RedBlackTree.dir/main.cpp.o	626030558beb0184
+237	269	1680015051649094209	RedBlackTree	db896432c31a703
