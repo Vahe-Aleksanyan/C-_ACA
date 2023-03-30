@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "Design_patterns",
+					"name" : "Design_Patterns",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "Design_patterns::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-Design_patterns-Debug-f098623535e3b4026de4.json",
-					"name" : "Design_patterns",
+					"id" : "Design_Patterns::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Design_Patterns-Debug-41b6ab96b3e1d0d3f5b8.json",
+					"name" : "Design_Patterns",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns/cmake-build-debug",
-		"source" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns"
+		"build" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns/cmake-build-debug",
+		"source" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns"
 	},
 	"version" : 
 	{

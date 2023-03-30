@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns/cmake-build-debug"
+			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns"
+			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -819,7 +819,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "Design_patterns"
+			"value" : "Design_Patterns"
 		},
 		{
 			"name" : "CMAKE_RANLIB",
@@ -1102,7 +1102,7 @@
 			"value" : "FALSE"
 		},
 		{
-			"name" : "Design_patterns_BINARY_DIR",
+			"name" : "Design_Patterns_BINARY_DIR",
 			"properties" : 
 			[
 				{
@@ -1111,10 +1111,10 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns/cmake-build-debug"
+			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns/cmake-build-debug"
 		},
 		{
-			"name" : "Design_patterns_IS_TOP_LEVEL",
+			"name" : "Design_Patterns_IS_TOP_LEVEL",
 			"properties" : 
 			[
 				{
@@ -1126,7 +1126,7 @@
 			"value" : "ON"
 		},
 		{
-			"name" : "Design_patterns_SOURCE_DIR",
+			"name" : "Design_Patterns_SOURCE_DIR",
 			"properties" : 
 			[
 				{
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns"
+			"value" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns"
 		}
 	],
 	"kind" : "cache",

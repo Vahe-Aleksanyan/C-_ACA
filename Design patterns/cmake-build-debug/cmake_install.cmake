@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns
+# Install script for directory: /Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design patterns/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/Design Patterns/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

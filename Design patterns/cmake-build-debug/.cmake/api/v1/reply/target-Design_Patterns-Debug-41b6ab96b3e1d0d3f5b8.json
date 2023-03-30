@@ -2,7 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "Design_patterns"
+			"path" : "Design_Patterns"
 		}
 	],
 	"backtrace" : 1,
@@ -38,7 +38,7 @@
 					"fragment" : "-g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.1.sdk -fcolor-diagnostics"
 				},
 				{
-					"fragment" : "-std=gnu++14"
+					"fragment" : "-std=gnu++20"
 				}
 			],
 			"language" : "CXX",
@@ -48,7 +48,7 @@
 				[
 					1
 				],
-				"standard" : "14"
+				"standard" : "20"
 			},
 			"sourceIndexes" : 
 			[
@@ -56,7 +56,7 @@
 			]
 		}
 	],
-	"id" : "Design_patterns::@6890427a1f51a3e7e1df",
+	"id" : "Design_Patterns::@6890427a1f51a3e7e1df",
 	"link" : 
 	{
 		"commandFragments" : 
@@ -72,8 +72,8 @@
 		],
 		"language" : "CXX"
 	},
-	"name" : "Design_patterns",
-	"nameOnDisk" : "Design_patterns",
+	"name" : "Design_Patterns",
+	"nameOnDisk" : "Design_Patterns",
 	"paths" : 
 	{
 		"build" : ".",
