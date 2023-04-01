@@ -1,4 +1,4 @@
-# Install script for directory: /Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/dynamic programming
+# Install script for directory: /Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/rodCutting
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/dynamic programming/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/rodCutting/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

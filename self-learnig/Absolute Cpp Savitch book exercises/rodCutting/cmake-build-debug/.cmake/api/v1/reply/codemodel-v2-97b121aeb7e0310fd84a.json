@@ -9,7 +9,7 @@
 					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
-						"string" : "3.14"
+						"string" : "3.24"
 					},
 					"projectIndex" : 0,
 					"source" : ".",
@@ -27,7 +27,7 @@
 					[
 						0
 					],
-					"name" : "exceptionHandling",
+					"name" : "rodCutting",
 					"targetIndexes" : 
 					[
 						0
@@ -38,9 +38,9 @@
 			[
 				{
 					"directoryIndex" : 0,
-					"id" : "exceptionHandling::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-exceptionHandling-Debug-08bc6de495711ec53326.json",
-					"name" : "exceptionHandling",
+					"id" : "rodCutting::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-rodCutting-Debug-795a31a4941618199de0.json",
+					"name" : "rodCutting",
 					"projectIndex" : 0
 				}
 			]
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/exceptionHandling/cmake-build-debug",
-		"source" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/exceptionHandling"
+		"build" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/rodCutting/cmake-build-debug",
+		"source" : "/Users/vahealeksanyan/Desktop/projects/CPP_ACA/self-learnig/Absolute Cpp Savitch book exercises/rodCutting"
 	},
 	"version" : 
 	{
