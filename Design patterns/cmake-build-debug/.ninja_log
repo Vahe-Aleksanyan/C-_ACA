@@ -1,3 +1,4 @@
 # ninja log v5
-2	253	1680015449422968811	CMakeFiles/Design_Patterns.dir/Factory/main.cpp.o	8a6193fb83b84372
+2	685	1680367529584417726	CMakeFiles/Design_Patterns.dir/Factory/main.cpp.o	80122dbc912c9924
 253	301	1680015449490892128	Design_Patterns	2f1e6de364ff12e1
+2	308	1680367823605213752	CMakeFiles/Design_Patterns.dir/Builder/main.cpp.o	39a5d44f6a9b01c9
