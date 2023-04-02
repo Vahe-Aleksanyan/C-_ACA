@@ -80,37 +80,37 @@ int f_bottom_up(int m, int n) {
 }
 
 
-int main() {
-    int m = 30;
-    int n = 32;
-    auto start = high_resolution_clock::now();
-    int res = f_b(m, n);
-    auto stop = high_resolution_clock::now();
-    auto duration = duration_cast<microseconds>(stop - start);
-    cout << "ordinary recursion " << res << endl;
-    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
-
-
-
-
-
-    start = high_resolution_clock::now();
-    unordered_map<string, int> memo;
-    int res2 = f_top_down(m,n, memo);
-    stop = high_resolution_clock::now();
-    duration = duration_cast<microseconds>(stop - start);
-    cout << "Using TopDown function " << res2 << endl;
-    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
-
-
-
-    start = high_resolution_clock::now();
-    int res3 = f_bottom_up(m,n);
-    stop = high_resolution_clock::now();
-    duration = duration_cast<microseconds>(stop - start);
-    cout << "Using bottom up function " << res2 << endl;
-    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
-
-
-    return 0;
-}
+//int main() {
+//    int m = 30;
+//    int n = 32;
+//    auto start = high_resolution_clock::now();
+//    int res = f_b(m, n);
+//    auto stop = high_resolution_clock::now();
+//    auto duration = duration_cast<microseconds>(stop - start);
+//    cout << "ordinary recursion " << res << endl;
+//    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
+//
+//
+//
+//
+//
+//    start = high_resolution_clock::now();
+//    unordered_map<string, int> memo;
+//    int res2 = f_top_down(m,n, memo);
+//    stop = high_resolution_clock::now();
+//    duration = duration_cast<microseconds>(stop - start);
+//    cout << "Using TopDown function " << res2 << endl;
+//    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
+//
+//
+//
+//    start = high_resolution_clock::now();
+//    int res3 = f_bottom_up(m,n);
+//    stop = high_resolution_clock::now();
+//    duration = duration_cast<microseconds>(stop - start);
+//    cout << "Using bottom up function " << res2 << endl;
+//    cout << "Time taken function: " << duration.count() << " microseconds" << endl << endl;
+//
+//
+//    return 0;
+//}
