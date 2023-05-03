@@ -4,4 +4,4 @@ project(Design_Patterns)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(Design_Patterns
-        Factory/main.cpp)
+        Factory/main.cpp )
